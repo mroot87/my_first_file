@@ -80,7 +80,7 @@ a:active {
   padding-top: 0;
   height: 600px;
   width: 100%;
-  background: linear-gradient(red, transparent 90%), /*linear-gradient(0deg, #fff, transparent),*/ url('../img/sun.jpg');
+  background: linear-gradient(red, transparent 90%), /*linear-gradient(0deg, #fff, transparent),*/ url('sun.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -235,7 +235,7 @@ a:active {
   color: white;
   background-color: #434a52;
   width: 50%;
-  background-image: url('../img/holy_cross_church_front.jpg');
+  background-image: url('holy_cross_church_front.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   padding: 18% 24%;
@@ -278,7 +278,7 @@ a:active {
   padding-bottom: 1px;
   margin-bottom: 30px;
   /*background: linear-gradient(red, transparent 90%), linear-gradient(0deg, #fff, transparent),*/ 
-  background-image: url('../img/sun.jpg');
+  background-image: url('sun.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
